@@ -69,7 +69,7 @@
     </style>
 </head>
 <body>
-    <h2>Enhanced Calculator</h2>
+    <h2>Calculator</h2>
     <div class="container">
         <h3>Enter First Number:</h3>
         <input id="firstNumber" type="number" placeholder="Enter number">
